@@ -42,5 +42,3 @@ const square = (array) => {
 }
 
 console.log(square(Array))
-
-console.log(`************************************`) 
